@@ -1,6 +1,6 @@
 ## Hey 👋, My name Arif Yoga Wiranto
 [![Gmail Badge](https://img.shields.io/badge/-arifyoga987@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:arifyoga987@gmail.com)](mailto:arifyoga987@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-Arif Yoga Wiranto-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Arif Yoga Wiranto/)](https://www.linkedin.com/in/Arif Yoga Wiranto/) [![Github Badge](https://img.shields.io/badge/-yogga-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yogga/)](https://www.github.com/yogga/) [![Twitter Badge](https://img.shields.io/badge/-ar_yoga7-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ar_yoga7/)](https://www.twitter.com/ar_yoga7/) <p align='left'>Long life learner</p>
+[![Linkedin Badge](https://img.shields.io/badge/-Arif Yoga Wiranto-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arif-yoga-wiranto-2587b510a/)](https://www.linkedin.com/in/arif-yoga-wiranto-2587b510a/) [![Github Badge](https://img.shields.io/badge/-yogga-grey?style=flat&logo=github&logoColor=white&link=https://github.com/yogga/)](https://www.github.com/yogga/) [![Twitter Badge](https://img.shields.io/badge/-ar_yoga7-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ar_yoga7/)](https://www.twitter.com/ar_yoga7/) <p align='left'>Long life learner</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yogga alt=yogga /> </p>
 
