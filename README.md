@@ -5,13 +5,17 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yogga alt=yogga /> </p>
 
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api?username=yogga&show_icons=true&include_all_commits=true)](https://github.com/yogga/github-readme-stats) -->
-<p align=left>
-<img  src="https://github-readme-stats.vercel.app/api?username=yogga&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="yogga's Github Stats" />
-</p>
+<!-- [![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga)](https://github.com/yogga/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&layout=compact)](https://github.com/yogga/github-readme-stats)
+<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true) -->
 
+<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&show_icons=true) -->
+
+![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&show_icons=true&theme=radical)](https://github.com/yogga/github-readme-stats)
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&layout=compact)](https://github.com/yogga/github-readme-stats) -->
 
 <!--
 **yogga/yogga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
