@@ -8,30 +8,4 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yogga)
 <p align=left> <img src=https://komarev.com/ghpvc/?username=yogga alt=yogga /> </p>
 
-<!-- [![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga)](https://github.com/yogga/github-readme-stats) -->
 
-<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true) -->
-
-<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&show_icons=true) -->
-
-<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true&show_icons=true&theme=radical) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&show_icons=true&theme=radical)](https://github.com/yogga/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&layout=compact)](https://github.com/yogga/github-readme-stats) -->
-
-<!--
-**yogga/yogga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
