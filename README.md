@@ -6,7 +6,7 @@
 ## Some of my github stats
 [![Github](https://img.shields.io/github/followers/yogga?label=Followers&logo=Github)](https://github.com/yogga)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yogga)
- [![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga)](https://github.com/yogga/github-readme-stats)
+<!-- [![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga)](https://github.com/yogga/github-readme-stats) -->
 
 <!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true) -->
 
