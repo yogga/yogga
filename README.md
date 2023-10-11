@@ -6,3 +6,14 @@
 ## Some of my github stats
 [![Github](https://img.shields.io/github/followers/yogga?label=Followers&logo=Github)](https://github.com/yogga)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=yogga)
+<!-- [![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga)](https://github.com/yogga/github-readme-stats) -->
+
+<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true) -->
+
+<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&show_icons=true) -->
+
+<!-- ![Yogga's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogga&count_private=true&include_all_commits=true&show_icons=true&theme=radical) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&show_icons=true&theme=radical)](https://github.com/yogga/github-readme-stats) -->
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&layout=compact)](https://github.com/yogga/github-readme-stats)
