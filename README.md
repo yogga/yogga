@@ -16,4 +16,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&show_icons=true&theme=radical)](https://github.com/yogga/github-readme-stats) -->
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&layout=compact)](https://github.com/yogga/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogga&layout=compact)](https://github.com/yogga/github-readme-stats&show_icons=true&theme=radical)
